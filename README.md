@@ -9,6 +9,8 @@ A simple backend application built with FastAPI and PostgreSQL, running inside D
 - Docker Compose orchestration
 - Full CRUD operations on `messages` table
 - Auto-generated API documentation via Swagger UI
+- Health Check: `http://localhost:8000/health`
+
 
 ## How to Run
 
